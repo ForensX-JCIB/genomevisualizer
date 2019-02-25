@@ -1,4 +1,4 @@
-# genomevisualizer
+# GViz
 A tool to visualize the overlaps between genome sequences
 
 This is a project submission for the HudsonAlpha Tech Challenge 2019: https://hatch-2019.devpost.com/
@@ -12,5 +12,6 @@ This is a project submission for the HudsonAlpha Tech Challenge 2019: https://ha
 # Instructions for running 
 * Place any data files you would like to have analysis done on in the 'Website\Data' directory
 * In an Ubuntu bash, navigate to the website directory and run the index.py file by running the command: 'python index.py
+* Open a web browser and navigate to the server specified in your ubuntu bash
 * Graph parameters can be adjusted using the fields above the graph
 * Any time you change the parameters of the graph on the app, the processed datafile will be downloaded and dumped into the 'Website\exportedData' directory
